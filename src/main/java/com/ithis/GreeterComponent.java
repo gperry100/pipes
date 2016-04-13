@@ -10,7 +10,7 @@ public class GreeterComponent implements Callable {
 		
 		String payload = eventContext.getMessage().getPayloadAsString();
 		
-		return "Hello " + payload;
+		return "Hello hh" + payload;
 	}
 
 }
