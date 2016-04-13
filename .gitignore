@@ -38,3 +38,7 @@ local.properties
 flows/
 target/
 **/*.mflow
+# --------------- #
+# IntelliJ-specific #
+# --------------- #
+.idea/
